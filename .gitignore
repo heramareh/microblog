@@ -1,0 +1,4 @@
+.idea
+*.db
+/flask
+/db_repository
